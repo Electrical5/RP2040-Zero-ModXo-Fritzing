@@ -1,0 +1,34 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ModXo
+*Date=00:34:43
+*CreatedBy=Fritzing 0.9.5d.2020-02-07.CD-548-0-3d61c58
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;18.5774;-26.4926;0;Bottom;TXT1
+2;;;28.0615;-6.85201;0;Bottom;TXT6
+3;100;THT;25.0342;-14.5618;0;Bottom;R4
+4;100;THT;25.0342;-22.1818;0;Bottom;R1
+5;;;12.3391;-12.7331;-90;Bottom;TXT7
+6;;THT;32.6542;-9.4818;90;Bottom;GND
+7;;THT;32.6542;-12.0218;0;Bottom;J3
+8;;;29.3733;-1.48481;0;Bottom;TXT5
+9;;THT;35.1942;-19.6418;0;Bottom; 
+10;;THT;19.9542;-4.4018;0;Bottom;D0
+11;;THT;9.77858;-12.6159;0;Bottom;RP2040-ZERO
+12;;;7.62233;-13.0918;-90;Bottom;TXT3
+13;;;25.4215;-9.96126;0;Bottom;TXT2
+14;100;THT;25.0342;-19.6418;0;Bottom;R2
+15;;THT;35.1942;-14.5618;0;Bottom;J4
+16;100;THT;25.0342;-17.1018;0;Bottom;R3
+17;;THT;32.6542;-17.1018;0;Bottom;J2
+18;;THT;35.1942;-10.7518;0;Bottom;LCLK
+19;;;37.6115;-14.2235;-90;Bottom;TXT4
